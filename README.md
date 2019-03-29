@@ -1,2 +1,2 @@
-# pytorch_CatandDog
-pytorch实现猫狗识别
+# 猫狗识别
+数据的处理是重要的一个学习环节
